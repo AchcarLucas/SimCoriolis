@@ -1,5 +1,7 @@
 # SimCoriolis
 
+É necessário ter as bibliotecas do SDL 2.0 instalado no CodeBlock para compilar o código!
+
 Simulador do Efeito Coriolis (Força Centrifuga e Coriolis) em 2 dimensões
 
 Efeitos simulados (Baseado no livro Dinâmica de Partículas e Sistemas)
