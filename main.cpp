@@ -43,10 +43,10 @@ Simulação do Livro Dinâmica de Particulas
 // Lançado a 45º
 
 // (e)
-/*
+
 #define VELOCITY_X 0.33234
 #define VELOCITY_Y 0.33234
-*/
+
 
 // (f)
 /*
