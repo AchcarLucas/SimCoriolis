@@ -9,6 +9,10 @@
 #define HEIGHT 400
 
 /*
+ * Código Desenvolvido por Lucas Campos Achcar para apresentação do seminário de Mecânica Clássica
+ */
+
+/*
 Simulação do Livro Dinâmica de Particulas
 */
 

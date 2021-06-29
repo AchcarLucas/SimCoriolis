@@ -1,5 +1,9 @@
 #include "simCoriolis.h"
 
+/*
+ * Código Desenvolvido por Lucas Campos Achcar para apresentação do seminário de Mecânica Clássica
+ */
+
 simCoriolis::simCoriolis(std::vector<float> initVelocity, std::vector<float> initPosition, int sampleTime, float timeSimulation, float fRadius, float wRadians) {
     this->initVelocity = initVelocity;
     this->initPosition = initPosition;
